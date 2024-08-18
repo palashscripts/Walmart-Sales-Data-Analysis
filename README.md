@@ -1,11 +1,18 @@
 **Walmart Sales Data Analysis**
+
 **Project Overview**
+
 This project focuses on analyzing sales data from Walmart to uncover key insights about branch performance, product line success, customer behavior, and more. Using SQL for data analysis, we extract valuable information that can guide business decisions, improve sales strategies, and enhance customer satisfaction.
 
+
 **Objectives:**
+
 •	Identify sales trends across different branches and product lines.
+
 •	Analyze customer behavior based on demographics and purchasing patterns.
+
 •	Calculate financial metrics like revenue, gross income, and VAT to assess profitability.
+
 
 **Data Source**
 The dataset used in this project contains sales transactions from various Walmart branches. Each record includes:
