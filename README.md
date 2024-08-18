@@ -1,4 +1,4 @@
-**Walmart Sales Data Analysis**
+******Walmart Sales Data Analysis******
 
 **Project Overview**
 
@@ -15,16 +15,26 @@ This project focuses on analyzing sales data from Walmart to uncover key insight
 
 
 **Data Source**
+
 The dataset used in this project contains sales transactions from various Walmart branches. Each record includes:
+
 •	Branch and City: Identifying where the sale took place.
+
 •	Customer Type and Gender: Providing demographic details of the customer.
+
 •	Product Line, Unit Price, and Quantity: Details about the products sold.
+
 •	VAT, COGS, and Total Sales: Financial metrics associated with each transaction.
+
 •	Date, Time, and Payment Method: Information about when and how the transaction was completed.
+
 •	Customer Rating: Customer feedback in the form of ratings.
 
+
 This data is crucial for performing in-depth analysis to answer specific business questions.
-Table of Contents
+
+****Table of Contents****
+
 **•	Project Overview
 •	Data Source
 •	Features
