@@ -1,5 +1,5 @@
 
-# Walmart Sales Data Analysis - Project Answer
+# Walmart Sales Data Analysis
 
 ## 1. **Database and Table Creation**
 
