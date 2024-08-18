@@ -51,8 +51,8 @@ CREATE TABLE IF NOT EXISTS sales (
 ### Step 4: Insert Data into the `sales` Table
 
 Insert the sales data into the `sales` table. You can do this by either running `INSERT INTO`
-  statements or using a bulk import from a Walmart Sales Data.csv.CSV file.
-
+  statements or using a bulk import from a WalmartSalesData.csv.CSV file.
+-- note : I have attach this file on my repository please chechk --
 ---
 
 ## 2. **Analysis List**
